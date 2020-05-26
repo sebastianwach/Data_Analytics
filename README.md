@@ -1,2 +1,1 @@
-# Data_Analytics
-Nothing pushed yet
+# Data_Analytics exercises repository
